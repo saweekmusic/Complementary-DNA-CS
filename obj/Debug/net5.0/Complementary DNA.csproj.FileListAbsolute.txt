@@ -1,0 +1,16 @@
+C:\Users\Slavik\Desktop\Complementary DNA\bin\Debug\net5.0\Complementary DNA.exe
+C:\Users\Slavik\Desktop\Complementary DNA\bin\Debug\net5.0\Complementary DNA.deps.json
+C:\Users\Slavik\Desktop\Complementary DNA\bin\Debug\net5.0\Complementary DNA.runtimeconfig.json
+C:\Users\Slavik\Desktop\Complementary DNA\bin\Debug\net5.0\Complementary DNA.runtimeconfig.dev.json
+C:\Users\Slavik\Desktop\Complementary DNA\bin\Debug\net5.0\Complementary DNA.dll
+C:\Users\Slavik\Desktop\Complementary DNA\bin\Debug\net5.0\ref\Complementary DNA.dll
+C:\Users\Slavik\Desktop\Complementary DNA\bin\Debug\net5.0\Complementary DNA.pdb
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.csproj.AssemblyReference.cache
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.AssemblyInfoInputs.cache
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.AssemblyInfo.cs
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.csproj.CoreCompileInputs.cache
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.dll
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\ref\Complementary DNA.dll
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.pdb
+C:\Users\Slavik\Desktop\Complementary DNA\obj\Debug\net5.0\Complementary DNA.genruntimeconfig.cache
